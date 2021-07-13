@@ -1,1 +1,1 @@
-# classification-movie-LSTM
+# movie-classification-LSTM
